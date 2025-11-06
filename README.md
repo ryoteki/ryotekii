@@ -4,20 +4,17 @@
 
 <!-- Кнопки / соцсети -->
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/c0uS3x">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:0continuous0@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me!-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <!-- Счётчик просмотров -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=c0uS3x&label=Profile%20views&color=0e75b6&style=flat" alt="c0uS3x" />
 </p>
 
 ---
