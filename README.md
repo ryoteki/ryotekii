@@ -32,9 +32,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c0uS3x&theme=radical" alt="streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0uS3x&layout=compact&theme=radical" alt="top langs" />
 </p>
