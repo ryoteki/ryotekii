@@ -19,15 +19,13 @@
 - 🧑‍💻 Я студент ITMO, изучаю **AI Engineering**.
 - 💡 Стремлюсь создавать инновационные решения с помощью технологий.
 - 🌱 В данный момент углубляюсь в **Backend-разработку** и **Искусственный Интеллект**.
-- 🎯 Моя цель — внедрять передовые технологии для улучшения качества жизни людей.
 
 ---
 
 ### 🛠 Технологии и инструменты, с которыми я работаю
 
-- 🖥 **Backend:** Python, Flask, Django
-- ⚙️ **Базы данных:** PostgreSQL, MySQL
-- 🛠 **Инструменты DevOps:** Docker, Kubernetes
+- 🖥 **Backend:** Python, Django
+- ⚙️ **Базы данных:** MySQL
 - 🌐 **Frontend (для понимания всего стека):** HTML, CSS, JS
 
 ---
@@ -35,11 +33,11 @@
 ### 📊 Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryotekii&show_icons=true&theme=radical" alt="ryotekii's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=c0uS3x&show_icons=true&theme=radical" alt="ryotekii's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryotekii&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0uS3x&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -47,7 +45,7 @@
 ### 🏆 Мои достижения на GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryotekii&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=c0uS3x&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
 ---
