@@ -33,11 +33,11 @@
 ### 📊 Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryoteki&show_icons=true&theme=radical" alt="ryotekii's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=c0uS3x&show_icons=true&theme=radical" alt="ryotekii's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryoteki&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0uS3x&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ### 🏆 Мои достижения на GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryoteki&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=c0uS3x&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
 ---
