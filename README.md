@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryotekii&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=ryotekii&theme=dark" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -59,13 +59,6 @@
 ### 📫 Как связаться со мной?
 
 - Email: [0continuous0@gmail.com](mailto:0continuous0@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/ryotekii)
-
----
-
-### 💬 Вдохновляюсь этим:
-
-> "Разработка — это не просто создание кода, это решение реальных проблем."
 
 ---
 
