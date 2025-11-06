@@ -1,5 +1,5 @@
 <!-- Приветствие -->
-<h1 align="center">Привет, я <span style="color: #ff6f61;">@ryotekii</span> 👋</h1>
+<h1 align="center">Привет, я <span style="color: #ff6f61;">@c0uS3x</span> 👋</h1>
 
 <h3 align="center">Backend Developer | AI Engineering | ITMO Student 🌍</h3>
 
